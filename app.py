@@ -10,3 +10,4 @@ if __name__ == "__main__":
     print(f"Original: {message}")
     print(f"Reversed: {reverse_string(message)}")
     print(f"Is 'racecar' a palindrome?: {is_palindrome('racecar')}")
+    print("hello for continuos integration")
